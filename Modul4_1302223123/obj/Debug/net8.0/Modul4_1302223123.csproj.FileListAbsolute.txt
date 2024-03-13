@@ -1,0 +1,14 @@
+D:\Modul4_1302223123\Modul4_1302223123\obj\Debug\net8.0\Modul4_1302223123.GeneratedMSBuildEditorConfig.editorconfig
+D:\Modul4_1302223123\Modul4_1302223123\obj\Debug\net8.0\Modul4_1302223123.AssemblyInfoInputs.cache
+D:\Modul4_1302223123\Modul4_1302223123\obj\Debug\net8.0\Modul4_1302223123.AssemblyInfo.cs
+D:\Modul4_1302223123\Modul4_1302223123\obj\Debug\net8.0\Modul4_1302223123.csproj.CoreCompileInputs.cache
+D:\Modul4_1302223123\Modul4_1302223123\bin\Debug\net8.0\Modul4_1302223123.exe
+D:\Modul4_1302223123\Modul4_1302223123\bin\Debug\net8.0\Modul4_1302223123.deps.json
+D:\Modul4_1302223123\Modul4_1302223123\bin\Debug\net8.0\Modul4_1302223123.runtimeconfig.json
+D:\Modul4_1302223123\Modul4_1302223123\bin\Debug\net8.0\Modul4_1302223123.dll
+D:\Modul4_1302223123\Modul4_1302223123\bin\Debug\net8.0\Modul4_1302223123.pdb
+D:\Modul4_1302223123\Modul4_1302223123\obj\Debug\net8.0\Modul4_1302223123.dll
+D:\Modul4_1302223123\Modul4_1302223123\obj\Debug\net8.0\refint\Modul4_1302223123.dll
+D:\Modul4_1302223123\Modul4_1302223123\obj\Debug\net8.0\Modul4_1302223123.pdb
+D:\Modul4_1302223123\Modul4_1302223123\obj\Debug\net8.0\Modul4_1302223123.genruntimeconfig.cache
+D:\Modul4_1302223123\Modul4_1302223123\obj\Debug\net8.0\ref\Modul4_1302223123.dll
